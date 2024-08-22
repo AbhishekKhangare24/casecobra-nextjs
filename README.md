@@ -1,4 +1,4 @@
-# CaseCobra - A Modern Fullstack E-Commerce Shop for Custom Phone Cases
+# CaseCobra Next JS - A Modern Fullstack E-Commerce Shop for Custom Phone Cases
 
 Built with the Next.js 14 App Router, Postgres, TypeScript, Tailwind & Kinde Auth
 
@@ -29,7 +29,6 @@ To get started with this project, run
 ```
 
 and copy the .env.example variables into a separate .env file, fill them out & and that's all you need to get started!
-
 
 ## Acknowledgements
 
